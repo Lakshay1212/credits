@@ -1,1 +1,42 @@
+h1 {
+  color:red;
+  top:200px;
+  bottom:300px;
+  left:500px;
+  right:500px;
+  background-color:grey;
+  size:200px;
+    
+}
 
+h2 {
+  color:green;
+  top:210px;
+  bottom:290px;
+  left:500px;
+  right:500px;
+  background-color:grey;
+  size:180px;
+}
+
+a[href="https://github.com/SheepTester/htmlifier"] {
+  color:blue;
+  top:220px;
+  bottom:280px;
+  left:500px;
+  right:500px;
+  background-color:black;
+  size:150px;
+  align:center ;
+}
+
+a[href="scratch.mit.edu"] {
+  color:blue;
+  top:230px;
+  bottom:250px;
+  left:500px;
+  right:500px;
+  background-color:black;
+  size:140px;
+  align:center ;
+}
